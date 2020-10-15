@@ -7,3 +7,5 @@ HELLO
 Hi
 Hello
 Bye
+Good Bye
+See You
