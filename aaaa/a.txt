@@ -2,4 +2,8 @@
 감사
 HI
 HELLO
-
+안녕하세요.
+고맙습니다.
+Hi
+Hello
+Bye
